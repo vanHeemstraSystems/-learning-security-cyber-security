@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "basic-flow.html",
+    "href": "basic-flow.html",
+    "title": "Basic Flow",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Learning Security - Cyber Security",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#basic-flow",
+    "href": "index.html#basic-flow",
+    "title": "Learning Security - Cyber Security",
+    "section": "Basic Flow",
+    "text": "Basic Flow"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "SUMMARY.html",
+    "href": "SUMMARY.html",
+    "title": "Learning Security - Cyber Security",
+    "section": "",
+    "text": "Table of contents\n\nLearning Security - Cyber Security"
+  }
+]
