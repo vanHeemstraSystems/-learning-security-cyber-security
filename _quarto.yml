@@ -18,15 +18,15 @@ website:
       background: light
       contents:
         - basic-flow/step-1.qmd
-        - step-2.qmd
-        - step-3.qmd
-        - step-4.qmd
-        - step-5.qmd
-        - step-6.qmd
-        - step-7.qmd
-        - step-8.qmd
-        - step-9.qmd
-        - step-10.qmd        
+        - basic-flow/step-2.qmd
+        - basic-flow/step-3.qmd
+        - basic-flow/step-4.qmd
+        - basic-flow/step-5.qmd
+        - basic-flow/step-6.qmd
+        - basic-flow/step-7.qmd
+        - basic-flow/step-8.qmd
+        - basic-flow/step-9.qmd
+        - basic-flow/step-10.qmd        
 
 format:
   html:
