@@ -24,10 +24,10 @@ Based on "10-Step Learning System" by John Sonmez at https://github.com/vanHeems
 
 ## Step 8 - Play Around
 
-==> Use "Self-Education Loop"
+==> Use "Self-Education Loop" at https://github.com/vanHeemstraSystems/self-education
 
 ## Step 9 - Learn Enough to Do Something Useful
 
-==> Use "Start Finishing"
+==> Use "Start Finishing" at https://github.com/vanHeemstraSystems/start-finishing
 
 ## Step 10 - Teach
