@@ -1,0 +1,7 @@
+---
+title: "Step 8 - Play Around"
+---
+
+Play around and hopefully come up with some questions that you couldn’t find answers to on your own. Playing around gives us the context and tacit knowledge.
+
+See also "Self-Education" at https://github.com/vanHeemstraSystems/self-education
