@@ -1,13 +1,5 @@
 ---
 title: "Step 1 - Get the Big Picture"
-about:
-  id: hero-heading
 ---
-
-### This content appears above the formatted about page content.
-
-:::{#hero-heading}
-
-Phase I - Research
 
 Scan articles, table of contents, Wikipedia pages, etc. to get an idea of what the field is about.
