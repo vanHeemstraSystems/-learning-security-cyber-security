@@ -17,7 +17,7 @@ website:
       style: "docked"
       background: light
       contents:
-        - step-1.qmd
+        - basic-flow/step-1.qmd
         - step-2.qmd
         - step-3.qmd
         - step-4.qmd
