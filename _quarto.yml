@@ -17,16 +17,20 @@ website:
       style: "docked"
       background: light
       contents:
-        - basic-flow/step-1.qmd
-        - basic-flow/step-2.qmd
-        - basic-flow/step-3.qmd
-        - basic-flow/step-4.qmd
-        - basic-flow/step-5.qmd
-        - basic-flow/step-6.qmd
-        - basic-flow/step-7.qmd
-        - basic-flow/step-8.qmd
-        - basic-flow/step-9.qmd
-        - basic-flow/step-10.qmd        
+         - section: Phase I - Research
+           contents:
+            - basic-flow/step-1.qmd
+            - basic-flow/step-2.qmd
+            - basic-flow/step-3.qmd
+            - basic-flow/step-4.qmd
+            - basic-flow/step-5.qmd
+            - basic-flow/step-6.qmd
+        - section: Phase II - Learning
+          contents:
+            - basic-flow/step-7.qmd
+            - basic-flow/step-8.qmd
+            - basic-flow/step-9.qmd
+            - basic-flow/step-10.qmd   
 
 format:
   html:
