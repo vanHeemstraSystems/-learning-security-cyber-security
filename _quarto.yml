@@ -12,6 +12,22 @@ website:
       - href: basic-flow.qmd
         text: Basic Flow
 
+  sidebar:
+    - title: "Basic Flow"
+      style: "docked"
+      background: light
+      contents:
+        - step-1.qmd
+        - step-2.qmd
+        - step-3.qmd
+        - step-4.qmd
+        - step-5.qmd
+        - step-6.qmd
+        - step-7.qmd
+        - step-8.qmd
+        - step-9.qmd
+        - step-10.qmd        
+
 format:
   html:
     theme: cosmo
