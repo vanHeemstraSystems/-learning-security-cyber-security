@@ -2,4 +2,30 @@
 title: "Basic Flow"
 ---
 
-About this site
+Based on "10-Step Learning System" by John Sonmez at https://github.com/vanHeemstraSystems/10-step-learning-system
+
+# Phase I - Research
+
+## Step 1 - Get the Big Picture
+
+## Step 2 - Determine Scope
+
+## Step 3 - Define Success
+
+## Step 4 - Find Resources
+
+## Step 5 - Create a Learning Plan
+
+## Step 6 - Filter Resources
+
+# Phase II - Learning
+
+## Step 7 - Learn Enough to Get Started
+
+## Step 8 - Play Around
+
+## Step 9 - Learn Enough to do Something Useful
+
+==> Use "Start Finishing"
+
+## Step 10 - Teach
