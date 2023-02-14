@@ -17,14 +17,15 @@ website:
       style: "docked"
       background: light
       contents:
-        - section: Phase I - Research
+        - section: Phase I - Research:
         - basic-flow/step-1.qmd
+          text: - Step 1 - Get the Big Picture
         - basic-flow/step-2.qmd
         - basic-flow/step-3.qmd
         - basic-flow/step-4.qmd
         - basic-flow/step-5.qmd
         - basic-flow/step-6.qmd
-        - section: Phase II - Learning
+        - section: Phase II - Learning:
         - basic-flow/step-7.qmd
         - basic-flow/step-8.qmd
         - basic-flow/step-9.qmd
