@@ -26,7 +26,7 @@ Based on "10-Step Learning System" by John Sonmez at https://github.com/vanHeems
 
 ==> Use "Self-Education Loop"
 
-## Step 9 - Learn Enough to do Something Useful
+## Step 9 - Learn Enough to Do Something Useful
 
 ==> Use "Start Finishing"
 
