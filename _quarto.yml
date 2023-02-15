@@ -10,8 +10,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: basic-flow.qmd
-        text: Basic Flow
+      - href: user-journeys.qmd
+        text: User Journeys
 
   sidebar:
     - title: "Home"
