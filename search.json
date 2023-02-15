@@ -53,7 +53,7 @@
     "href": "basic-flow/step-1.html",
     "title": "Step 1 - Get the Big Picture",
     "section": "",
-    "text": "Scan articles, table of contents, Wikipedia pages, etc. to get an idea of what the field is about.\n\n\n\n\nmindmap\n  root((mindmap))\n    Origins\n      Long history\n      ::icon(fa fa-book)\n      Popularisation\n        British popular psychology author Tony Buzan\n    Research\n      On effectivness<br/>and features\n      On Automatic creation\n        Uses\n            Creative techniques\n            Strategic planning\n            Argument mapping\n    Tools\n      Pen and paper\n      Mermaid"
+    "text": "Scan articles, table of contents, Wikipedia pages, etc. to get an idea of what the field is about.\n\n\n\n\nmindmap\n  root((mindmap))\n    A\n    B\n    C"
   },
   {
     "objectID": "basic-flow/step-6.html",
