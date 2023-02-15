@@ -11,3 +11,119 @@ mindmap
     B
     C
 ```
+
+This is a collection taken from https://enterpriselinuxsecurity.show
+
+0. [Enterprise Linux Security Episode 0 - ...](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=1)
+
+1. [Enterprise Linux Security Episode 1 - Common Vulnerabilities & Exposures (CVEs)](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=2)
+
+2. [Enterprise Linux Security Episode 2 - Attack Vectors](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=3)
+
+3. [Enterprise Linux Security Episode 3 - Linux Distribution Migrations](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=4)
+
+4. [Enterprise Linux Security Episode 4 - Supply Chain Attacks](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=5)
+
+5. [Enterprise Linux Security Episode 5 - The "Attacker" Mindset](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=6)
+
+6. [Enterprise Linux Security Episode 6 - Image Defaults](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=7)
+
+7. [Enterprise Linux Security Episode 7 - ELevate](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=8)
+
+8. [Enterprise Linux Security Episode 8 - Trojan Source, & CISA's Directive](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=9)
+
+9. [Enterprise Linux Security Episode 9 - DevOps](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=10)
+
+10. [Enterprise Linux Security Episode 10 - The worst healthcare breaches of 2021](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=11)
+
+11. [Enterprise Linux Security Episode 11 - CrowdSec](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=12)]
+ 
+12. [Enterprise Linux Security Episode 12 - An Inside Job?](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=13)
+
+13. [Enterprise Linux Security Episode 13 - Log4Shell](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=14)
+
+14. [Enterprise Linux Security Episode 14 - Recovering from Disaster](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=15)
+
+15. [Enterprise Linux Security Episode 15 - High Availability](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=16)
+
+16. [Enterprise Linux Security Episode 16 - Library Poisoning](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=17)
+
+17. [Enterprise Linux Security Episode 17 - Polkit & LUKS CVE's](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=18)
+
+18. [Enterprise Linux Security Episode 18 - Zero Trust Security](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=19)
+
+19. [Enterprise Linux Security Episode 19 - The RBS Year-End Vulnerability Report](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=20)
+
+20. [Enterprise Linux Security Episode 20 - Cloud Governance](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=21)
+
+21. [Enterprise Linux Security Episode 21 - Dirty Pipe & Nvidia's Breach](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=22)
+
+22. [Enterprise Linux Security Episode 22 - Certificates](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=23)
+
+23. [Enterprise Linux Security Episode 23 - Busting 5 IT Security Myths](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=24)
+
+24. [Enterprise Linux Security Episode 24 - The Latest on Lapsus$](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=25)
+
+25. [Enterprise Linux Security Episode 25 - News Roundup](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=26)
+
+26. [Enterprise Linux Security Episode 26 - The State of Enterprise Linux Security management](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=27)
+
+27. [Enterprise Linux Security Episode 27 - People Problems](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=28)
+
+28. [Enterprise Linux Security Episode 28 - Second Factor Authentication](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=29)
+
+29. [Enterprise Linux Security Episode 29 - High Level Threats](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=30)
+
+30. [Enterprise Linux Security Episode 30 - Tools & Utilities](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=31)
+
+31. [Enterprise Linux Security Episode 31 - How NOT to Research Security](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=32)
+
+32. [Enterprise Linux Security Episode 32 - MySQL for Everyone!](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=33)
+
+33. [Enterprise Linux Security Episode 33 - Patch your Confluence Server!](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=34)
+
+34. [Enterprise Linux Security Episode 34 - How one business lost Everything](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=35)
+
+35. [Enterprise Linux Security Episode 35 - Top 25 Dangerous Software Weaknesses](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=36)
+
+36. [Enterprise Linux Security Episode 36 - ...](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=37)
+
+37. [Enterprise Linux Security Episode 37 - System Administrator Appreciation Day 2022](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=38)
+
+38. [Enterprise Linux Security Episode 38 - De-anonymizing Ransomware Domains](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=39)
+
+39. [Enterprise Linux Security Episode 39 - Publicly Available RDP, What Could Go Wrong?!](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=40)
+
+40. [Enterprise Linux Security Episode 40 - Continuous Integration / Continuous Delivery](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=41)
+
+41. [Enterprise Linux Security Episode 41 - Important CISO Focus Areas](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=42)
+
+42. [Enterprise Linux Security Episode 42 - Do NOT Fire Your Security Team!](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=43)
+
+43. [Enterprise Linux Security Episode 43 - Grand Theft Data](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=44)
+
+44. [Enterprise Linux Security Episode 44 - Is Linux less of a Target?](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=45)
+
+45. [Enterprise Linux Security Episode 45 - More Wi-Fi, More Problems](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=46)
+
+46. [Enterprise Linux Security Episode 46 - Monitoring](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=47)
+
+47. [Enterprise Linux Security Episode 47 - Legislating Open Source](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=48)
+
+48. [Enterprise Linux Security Episode 48 - New Malware, Old Vulnerabilities](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=49)
+
+49. Enterprise Linux Security Episode 49 - MISSING / DOES NOT EXIST
+
+50. [Enterprise Linux Security Episode 50 - The Many Faces of Patching](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=50)
+
+51. [Enterprise Linux Security Episode 51 - Samba in the Kernel, What Could Possibly Go Wrong?!](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=51)
+
+52. Enterprise Linux Security Episode 52 - MISSING / DOES NOT EXIST
+
+53. [Enterprise Linux Security Episode 53 - Digital Twins](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=52)
+
+54. [Enterprise Linux Security Episode 54 - Recovering from Ransomware](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=53)
+
+55. [Enterprise Linux Security Episode 55 - Should You Trust Password Managers? (Live)](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=54)
+
+56. [Enterprise Linux Security Episode 56 - Undercover Crypto Leaking](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=55)
