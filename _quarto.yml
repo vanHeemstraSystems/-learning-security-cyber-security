@@ -22,6 +22,14 @@ website:
         - section: User Journeys
         - text: "---"
         - basic-flow.qmd
+    - title: "User Journeys"
+      style: "docked"
+      background: light
+      contents:
+        - text: "---"
+        - section: User Journeys
+        - text: "---"
+        - basic-flow.qmd
     - title: "Basic Flow"
       style: "docked"
       background: light
