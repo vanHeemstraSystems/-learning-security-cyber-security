@@ -1,4 +1,4 @@
----
+:---
 title: "Basic Flow"
 ---
 
@@ -8,10 +8,15 @@ Based on "10-Step Learning System" by John Sonmez at https://github.com/vanHeems
 journey
     title User Journey: Basic Flow
     section PHASE I - Research
-      Make tea: 5: Me
-      Go upstairs: 3: Me
-      Do work: 1: Me, Cat
+      Step 1 - Get the Big Picture: 5: Me
+      Step 2 - Determine Scope: 3: Me
+      Step 3 - Define Success: 3: Me, Cat
+      Step 4 - Find Resources: 3: Me
+      Step 5 - Create a Learning Path: 3: Me
+      Step 6 - Filter Resources: 3: Me
     section PHASE II - Learning
-      Go downstairs: 5: Me
-      Sit down: 3: Me
+      Step 7 - Learn Enough to Get Started: 3: Me
+      Step 8 - Play Around: 3: Me
+      Step 9 - Learn Enough to Do Something Useful: 3: Me
+      Step 10 - Teach: 5: Me  
 ```      
