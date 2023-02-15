@@ -4,7 +4,7 @@
     "href": "basic-flow.html",
     "title": "Basic Flow",
     "section": "",
-    "text": "Based on “10-Step Learning System” by John Sonmez at https://github.com/vanHeemstraSystems/10-step-learning-system"
+    "text": "Based on “10-Step Learning System” by John Sonmez at https://github.com/vanHeemstraSystems/10-step-learning-system\n\n\n\n\njourney\n    title My working day\n    section Go to work\n      Make tea: 5: Me\n      Go upstairs: 3: Me\n      Do work: 1: Me, Cat\n    section Go home\n      Go downstairs: 5: Me\n      Sit down: 3: Me"
   },
   {
     "objectID": "index.html",
