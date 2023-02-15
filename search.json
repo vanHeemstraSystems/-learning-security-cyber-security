@@ -2,9 +2,9 @@
   {
     "objectID": "basic-flow.html",
     "href": "basic-flow.html",
-    "title": "Basic Flow",
+    "title": "Learning Security - Cyber Security",
     "section": "",
-    "text": "Based on “10-Step Learning System” by John Sonmez at https://github.com/vanHeemstraSystems/10-step-learning-system\n\n\n\n\njourney\n    title User Journey: Basic Flow\n    section PHASE I - Research\n      Make tea: 5: Me\n      Go upstairs: 3: Me\n      Do work: 1: Me, Cat\n    section PHASE II - Learning\n      Go downstairs: 5: Me\n      Sit down: 3: Me"
+    "text": ":— title: “Basic Flow”\n\nBased on “10-Step Learning System” by John Sonmez at https://github.com/vanHeemstraSystems/10-step-learning-system\n\n\n\n\njourney\n    title User Journey: Basic Flow\n    section PHASE I - Research\n      Step 1 - Get the Big Picture: 5: Me\n      Step 2 - Determine Scope: 3: Me\n      Step 3 - Define Success: 3: Me, Cat\n      Step 4 - Find Resources: 3: Me\n      Step 5 - Create a Learning Path: 3: Me\n      Step 6 - Filter Resources: 3: Me\n    section PHASE II - Learning\n      Step 7 - Learn Enough to Get Started: 3: Me\n      Step 8 - Play Around: 3: Me\n      Step 9 - Learn Enough to Do Something Useful: 3: Me\n      Step 10 - Teach: 5: Me"
   },
   {
     "objectID": "index.html",
