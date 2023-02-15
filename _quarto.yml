@@ -12,6 +12,8 @@ website:
       - about.qmd
       - href: user-journeys.qmd
         text: "User Journeys"
+      - href: basic-flow.qmd
+        text: "Basic Flow"     
   sidebar:
     - title: "Home"
       style: "docked"
