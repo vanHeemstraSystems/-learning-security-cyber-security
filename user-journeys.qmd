@@ -4,4 +4,4 @@ title: "User Journeys"
 
 About User Journeys
 
-- [Basic Flow](/basic-flow.html)
+[Basic Flow](basic-flow.html)
