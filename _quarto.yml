@@ -11,7 +11,7 @@ website:
         text: Home
       - about.qmd
       - href: user-journeys.qmd
-        text: "User Journeys"    
+        text: User Journeys    
   sidebar:
     - title: "Home"
       style: "docked"
