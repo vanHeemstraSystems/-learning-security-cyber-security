@@ -127,3 +127,13 @@ This is a collection taken from https://enterpriselinuxsecurity.show
 55. [Enterprise Linux Security Episode 55 - Should You Trust Password Managers? (Live)](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=54)
 
 56. [Enterprise Linux Security Episode 56 - Undercover Crypto Leaking](https://www.youtube.com/watch?v=tLc60arwMV0&list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&index=55)
+
+___
+
+This is a collection taken from https://edcast.com
+
+- Cloud security engineering learning materials
+- Azure Security Engineering
+- Cloud Security Engineering on Google Cloud Platform learning curriculum
+
+
