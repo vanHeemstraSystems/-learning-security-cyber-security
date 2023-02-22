@@ -132,8 +132,6 @@ ___
 
 This is a collection taken from https://edcast.com
 
-- Cloud security engineering learning materials
+- Cloud Security Engineering Learning Materials
 - Azure Security Engineering
-- Cloud Security Engineering on Google Cloud Platform learning curriculum
-
-
+- Cloud Security Engineering on Google Cloud Platform Learning Curriculum
