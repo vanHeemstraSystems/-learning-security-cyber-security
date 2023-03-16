@@ -1,4 +1,4 @@
-[![Quarto Publish](https://github.com/vanHeemstraSystems/learning-security-cyber-security/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/learning-security-cyber-security/actions/workflows/publish.yml)
+[![Quarto Publish](https://github.com/vanHeemstraSystems/learning-cyber-security/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/learning-cyber-security/actions/workflows/publish.yml)
 
 learning-security-cyber-security
 # Learning Security - Cyber Security
