@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "user-journeys.html",
-    "href": "user-journeys.html",
-    "title": "User Journeys",
+    "objectID": "basic-flow.html",
+    "href": "basic-flow.html",
+    "title": "Basic Flow",
     "section": "",
-    "text": "About User Journeys\nBasic Flow"
-  },
-  {
-    "objectID": "SUMMARY.html",
-    "href": "SUMMARY.html",
-    "title": "Learning Security - Cyber Security",
-    "section": "",
-    "text": "Table of contents\n\nLearning Security - Cyber Security"
+    "text": "Based on “10-Step Learning System” by John Sonmez at https://github.com/vanHeemstraSystems/10-step-learning-system\n\n\n\n\njourney\n    title User Journey: Basic Flow\n    section PHASE I - Research\n      Step 1 - Get the Big Picture: 5: Me\n      Step 2 - Determine Scope: 3: Me\n      Step 3 - Define Success: 3: Me, Cat\n      Step 4 - Find Resources: 3: Me\n      Step 5 - Create a Learning Path: 3: Me\n      Step 6 - Filter Resources: 3: Me\n    section PHASE II - Learning\n      Step 7 - Learn Enough to Get Started: 3: Me\n      Step 8 - Play Around: 3: Me\n      Step 9 - Learn Enough to Do Something Useful: 3: Me\n      Step 10 - Teach: 5: Me"
   },
   {
     "objectID": "about.html",
@@ -21,46 +14,18 @@
     "text": "About this site"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "SUMMARY.html",
+    "href": "SUMMARY.html",
     "title": "Learning Security - Cyber Security",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nUser Journeys\nSee User Journeys"
+    "text": "Table of contents\n\nLearning Security - Cyber Security"
   },
   {
-    "objectID": "basic-flow.html",
-    "href": "basic-flow.html",
-    "title": "Basic Flow",
+    "objectID": "basic-flow/step-10.html",
+    "href": "basic-flow/step-10.html",
+    "title": "Step 10 - Teach",
     "section": "",
-    "text": "Based on “10-Step Learning System” by John Sonmez at https://github.com/vanHeemstraSystems/10-step-learning-system\n\n\n\n\njourney\n    title User Journey: Basic Flow\n    section PHASE I - Research\n      Step 1 - Get the Big Picture: 5: Me\n      Step 2 - Determine Scope: 3: Me\n      Step 3 - Define Success: 3: Me, Cat\n      Step 4 - Find Resources: 3: Me\n      Step 5 - Create a Learning Path: 3: Me\n      Step 6 - Filter Resources: 3: Me\n    section PHASE II - Learning\n      Step 7 - Learn Enough to Get Started: 3: Me\n      Step 8 - Play Around: 3: Me\n      Step 9 - Learn Enough to Do Something Useful: 3: Me\n      Step 10 - Teach: 5: Me"
-  },
-  {
-    "objectID": "basic-flow/step-1.html",
-    "href": "basic-flow/step-1.html",
-    "title": "Step 1 - Get the Big Picture",
-    "section": "",
-    "text": "Scan articles, table of contents, Wikipedia pages, etc. to get an idea of what the field is about.\n\n\n\n\nmindmap\n  root((mindmap))\n    A\n    B\n    C\n\n\n\n\n\n\n\n\nThis is a collection taken from https://enterpriselinuxsecurity.show\n\nEnterprise Linux Security Episode 0 - …\nEnterprise Linux Security Episode 1 - Common Vulnerabilities & Exposures (CVEs)\nEnterprise Linux Security Episode 2 - Attack Vectors\nEnterprise Linux Security Episode 3 - Linux Distribution Migrations\nEnterprise Linux Security Episode 4 - Supply Chain Attacks\nEnterprise Linux Security Episode 5 - The “Attacker” Mindset\nEnterprise Linux Security Episode 6 - Image Defaults\nEnterprise Linux Security Episode 7 - ELevate\nEnterprise Linux Security Episode 8 - Trojan Source, & CISA’s Directive\nEnterprise Linux Security Episode 9 - DevOps\nEnterprise Linux Security Episode 10 - The worst healthcare breaches of 2021\nEnterprise Linux Security Episode 11 - CrowdSec]\nEnterprise Linux Security Episode 12 - An Inside Job?\nEnterprise Linux Security Episode 13 - Log4Shell\nEnterprise Linux Security Episode 14 - Recovering from Disaster\nEnterprise Linux Security Episode 15 - High Availability\nEnterprise Linux Security Episode 16 - Library Poisoning\nEnterprise Linux Security Episode 17 - Polkit & LUKS CVE’s\nEnterprise Linux Security Episode 18 - Zero Trust Security\nEnterprise Linux Security Episode 19 - The RBS Year-End Vulnerability Report\nEnterprise Linux Security Episode 20 - Cloud Governance\nEnterprise Linux Security Episode 21 - Dirty Pipe & Nvidia’s Breach\nEnterprise Linux Security Episode 22 - Certificates\nEnterprise Linux Security Episode 23 - Busting 5 IT Security Myths\nEnterprise Linux Security Episode 24 - The Latest on Lapsus$\nEnterprise Linux Security Episode 25 - News Roundup\nEnterprise Linux Security Episode 26 - The State of Enterprise Linux Security management\nEnterprise Linux Security Episode 27 - People Problems\nEnterprise Linux Security Episode 28 - Second Factor Authentication\nEnterprise Linux Security Episode 29 - High Level Threats\nEnterprise Linux Security Episode 30 - Tools & Utilities\nEnterprise Linux Security Episode 31 - How NOT to Research Security\nEnterprise Linux Security Episode 32 - MySQL for Everyone!\nEnterprise Linux Security Episode 33 - Patch your Confluence Server!\nEnterprise Linux Security Episode 34 - How one business lost Everything\nEnterprise Linux Security Episode 35 - Top 25 Dangerous Software Weaknesses\nEnterprise Linux Security Episode 36 - …\nEnterprise Linux Security Episode 37 - System Administrator Appreciation Day 2022\nEnterprise Linux Security Episode 38 - De-anonymizing Ransomware Domains\nEnterprise Linux Security Episode 39 - Publicly Available RDP, What Could Go Wrong?!\nEnterprise Linux Security Episode 40 - Continuous Integration / Continuous Delivery\nEnterprise Linux Security Episode 41 - Important CISO Focus Areas\nEnterprise Linux Security Episode 42 - Do NOT Fire Your Security Team!\nEnterprise Linux Security Episode 43 - Grand Theft Data\nEnterprise Linux Security Episode 44 - Is Linux less of a Target?\nEnterprise Linux Security Episode 45 - More Wi-Fi, More Problems\nEnterprise Linux Security Episode 46 - Monitoring\nEnterprise Linux Security Episode 47 - Legislating Open Source\nEnterprise Linux Security Episode 48 - New Malware, Old Vulnerabilities\nEnterprise Linux Security Episode 49 - MISSING / DOES NOT EXIST\nEnterprise Linux Security Episode 50 - The Many Faces of Patching\nEnterprise Linux Security Episode 51 - Samba in the Kernel, What Could Possibly Go Wrong?!\nEnterprise Linux Security Episode 52 - MISSING / DOES NOT EXIST\nEnterprise Linux Security Episode 53 - Digital Twins\nEnterprise Linux Security Episode 54 - Recovering from Ransomware\nEnterprise Linux Security Episode 55 - Should You Trust Password Managers? (Live)\nEnterprise Linux Security Episode 56 - Undercover Crypto Leaking\n\n\nThis is a collection taken from https://edcast.com\n\nCloud Security Engineering Learning Materials\nAzure Security Engineering\nCloud Security Engineering on Google Cloud Platform Learning Curriculum"
-  },
-  {
-    "objectID": "basic-flow/step-4.html",
-    "href": "basic-flow/step-4.html",
-    "title": "Step 4 - Find Resources",
-    "section": "",
-    "text": "Gather resources from the internet, libraries, forums, etc. that might be useful for your learning project."
-  },
-  {
-    "objectID": "basic-flow/step-3.html",
-    "href": "basic-flow/step-3.html",
-    "title": "Step 3 - Define Success",
-    "section": "",
-    "text": "Make a clear goal for your learning so you’ll know when you get there."
-  },
-  {
-    "objectID": "basic-flow/step-7.html",
-    "href": "basic-flow/step-7.html",
-    "title": "Step 7 - Learn Enough to Get Started",
-    "section": "",
-    "text": "Nobody reads the whole game manual before they start playing a video game."
+    "text": "The final step is to try and teach what you’ve learned."
   },
   {
     "objectID": "basic-flow/step-2.html",
@@ -68,13 +33,6 @@
     "title": "Step 2 - Determine Scope",
     "section": "",
     "text": "Limit the size of what you want to learn. “Physics” or “philosophy” is too wide and will take decades.\n\nCloud Security"
-  },
-  {
-    "objectID": "basic-flow/step-6.html",
-    "href": "basic-flow/step-6.html",
-    "title": "Step 6 - Filter Resources",
-    "section": "",
-    "text": "With your plan in mind, narrow down your resource list (Step 4) to the most important essentials."
   },
   {
     "objectID": "basic-flow/step-9.html",
@@ -91,6 +49,20 @@
     "text": "Use what you learned in the previous steps to make a plan."
   },
   {
+    "objectID": "basic-flow/step-3.html",
+    "href": "basic-flow/step-3.html",
+    "title": "Step 3 - Define Success",
+    "section": "",
+    "text": "Make a clear goal for your learning so you’ll know when you get there."
+  },
+  {
+    "objectID": "basic-flow/step-4.html",
+    "href": "basic-flow/step-4.html",
+    "title": "Step 4 - Find Resources",
+    "section": "",
+    "text": "Gather resources from the internet, libraries, forums, etc. that might be useful for your learning project."
+  },
+  {
     "objectID": "basic-flow/step-8.html",
     "href": "basic-flow/step-8.html",
     "title": "Step 8 - Play Around",
@@ -98,10 +70,38 @@
     "text": "Play around and hopefully come up with some questions that you couldn’t find answers to on your own. Playing around gives us the context and tacit knowledge.\nSee also “Self-Education” at https://github.com/vanHeemstraSystems/self-education"
   },
   {
-    "objectID": "basic-flow/step-10.html",
-    "href": "basic-flow/step-10.html",
-    "title": "Step 10 - Teach",
+    "objectID": "basic-flow/step-1.html",
+    "href": "basic-flow/step-1.html",
+    "title": "Step 1 - Get the Big Picture",
     "section": "",
-    "text": "The final step is to try and teach what you’ve learned."
+    "text": "Scan articles, table of contents, Wikipedia pages, etc. to get an idea of what the field is about.\n\n\n\n\nmindmap\n  root((mindmap))\n    A\n    B\n    C\n\n\n\n\n\n\n\n\nThis is a collection taken from https://enterpriselinuxsecurity.show\n\nEnterprise Linux Security Episode 0 - …\nEnterprise Linux Security Episode 1 - Common Vulnerabilities & Exposures (CVEs)\nEnterprise Linux Security Episode 2 - Attack Vectors\nEnterprise Linux Security Episode 3 - Linux Distribution Migrations\nEnterprise Linux Security Episode 4 - Supply Chain Attacks\nEnterprise Linux Security Episode 5 - The “Attacker” Mindset\nEnterprise Linux Security Episode 6 - Image Defaults\nEnterprise Linux Security Episode 7 - ELevate\nEnterprise Linux Security Episode 8 - Trojan Source, & CISA’s Directive\nEnterprise Linux Security Episode 9 - DevOps\nEnterprise Linux Security Episode 10 - The worst healthcare breaches of 2021\nEnterprise Linux Security Episode 11 - CrowdSec]\nEnterprise Linux Security Episode 12 - An Inside Job?\nEnterprise Linux Security Episode 13 - Log4Shell\nEnterprise Linux Security Episode 14 - Recovering from Disaster\nEnterprise Linux Security Episode 15 - High Availability\nEnterprise Linux Security Episode 16 - Library Poisoning\nEnterprise Linux Security Episode 17 - Polkit & LUKS CVE’s\nEnterprise Linux Security Episode 18 - Zero Trust Security\nEnterprise Linux Security Episode 19 - The RBS Year-End Vulnerability Report\nEnterprise Linux Security Episode 20 - Cloud Governance\nEnterprise Linux Security Episode 21 - Dirty Pipe & Nvidia’s Breach\nEnterprise Linux Security Episode 22 - Certificates\nEnterprise Linux Security Episode 23 - Busting 5 IT Security Myths\nEnterprise Linux Security Episode 24 - The Latest on Lapsus$\nEnterprise Linux Security Episode 25 - News Roundup\nEnterprise Linux Security Episode 26 - The State of Enterprise Linux Security management\nEnterprise Linux Security Episode 27 - People Problems\nEnterprise Linux Security Episode 28 - Second Factor Authentication\nEnterprise Linux Security Episode 29 - High Level Threats\nEnterprise Linux Security Episode 30 - Tools & Utilities\nEnterprise Linux Security Episode 31 - How NOT to Research Security\nEnterprise Linux Security Episode 32 - MySQL for Everyone!\nEnterprise Linux Security Episode 33 - Patch your Confluence Server!\nEnterprise Linux Security Episode 34 - How one business lost Everything\nEnterprise Linux Security Episode 35 - Top 25 Dangerous Software Weaknesses\nEnterprise Linux Security Episode 36 - …\nEnterprise Linux Security Episode 37 - System Administrator Appreciation Day 2022\nEnterprise Linux Security Episode 38 - De-anonymizing Ransomware Domains\nEnterprise Linux Security Episode 39 - Publicly Available RDP, What Could Go Wrong?!\nEnterprise Linux Security Episode 40 - Continuous Integration / Continuous Delivery\nEnterprise Linux Security Episode 41 - Important CISO Focus Areas\nEnterprise Linux Security Episode 42 - Do NOT Fire Your Security Team!\nEnterprise Linux Security Episode 43 - Grand Theft Data\nEnterprise Linux Security Episode 44 - Is Linux less of a Target?\nEnterprise Linux Security Episode 45 - More Wi-Fi, More Problems\nEnterprise Linux Security Episode 46 - Monitoring\nEnterprise Linux Security Episode 47 - Legislating Open Source\nEnterprise Linux Security Episode 48 - New Malware, Old Vulnerabilities\nEnterprise Linux Security Episode 49 - MISSING / DOES NOT EXIST\nEnterprise Linux Security Episode 50 - The Many Faces of Patching\nEnterprise Linux Security Episode 51 - Samba in the Kernel, What Could Possibly Go Wrong?!\nEnterprise Linux Security Episode 52 - MISSING / DOES NOT EXIST\nEnterprise Linux Security Episode 53 - Digital Twins\nEnterprise Linux Security Episode 54 - Recovering from Ransomware\nEnterprise Linux Security Episode 55 - Should You Trust Password Managers? (Live)\nEnterprise Linux Security Episode 56 - Undercover Crypto Leaking\n\n\nThis is a collection taken from https://edcast.com\n\nCloud Security Engineering Learning Materials\nAzure Security Engineering\nCloud Security Engineering on Google Cloud Platform Learning Curriculum"
+  },
+  {
+    "objectID": "basic-flow/step-7.html",
+    "href": "basic-flow/step-7.html",
+    "title": "Step 7 - Learn Enough to Get Started",
+    "section": "",
+    "text": "Nobody reads the whole game manual before they start playing a video game."
+  },
+  {
+    "objectID": "basic-flow/step-6.html",
+    "href": "basic-flow/step-6.html",
+    "title": "Step 6 - Filter Resources",
+    "section": "",
+    "text": "With your plan in mind, narrow down your resource list (Step 4) to the most important essentials."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Learning Security - Cyber Security",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nUser Journeys\nSee User Journeys"
+  },
+  {
+    "objectID": "user-journeys.html",
+    "href": "user-journeys.html",
+    "title": "User Journeys",
+    "section": "",
+    "text": "About User Journeys\nBasic Flow"
   }
 ]
